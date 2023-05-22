@@ -75,13 +75,13 @@
                     <div class="col-lg-9 text-right d-none d-lg-block">
     <nav class="menu-wrapper">
         <ul class="main-menu" id="mobile-menu">
-            <li class="active"><a href="#">ABOUT TBI</a></li>
+            <li class="active"><a href="about.php">ABOUT TBI</a></li>
             <li class="submenu">
                 <a href="#feature">MANDATE</a>
                 <ul class="submenu-content">
-                    <li><a href="#">Submenu Item 1</a></li>
-                    <li><a href="#">Submenu Item 2</a></li>
-                    <li><a href="#">Submenu Item 3</a></li>
+                    <li><a href="mission.php">MISSIONS & VISION</a></li>
+                    <li><a href="objectives.php">OBJECTIVES</a></li>
+                
                 </ul>
             </li>
             <li class="submenu">

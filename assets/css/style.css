@@ -293,7 +293,7 @@
     position: absolute;
     background-color: #fff;
     padding: 10px;
-    z-index: 999; /* Increase the z-index value to make sure the submenu appears above images/sliders */
+    z-index:900; /* Increase the z-index value to make sure the submenu appears above images/sliders */
 }
 
 .submenu:hover .submenu-content {
@@ -313,7 +313,7 @@
 }
 
 .submenu:hover .submenu-content {
-    display: block;
+    display: above;
 }
 
 .submenu {
@@ -321,10 +321,12 @@
 }
 
 .submenu-content li {
-    margin-bottom: 5px;
+    text-align: start;
+    margin-bottom: 20px;
 }
 
 .submenu-content a {
+    text-align: start;
     color: #333;
     text-decoration: none;
 }
@@ -395,10 +397,10 @@
 
 .main-menu li a {
     display: block;
-    padding: 10px;
+    padding: 3px;
 }
 .header-area {
-    border-top: 5px solid #4272d7;
+    border-top: 25px solid #4272d7;
     padding: 30px 0;
 }
 .main-menu li.search-trigger a {
@@ -571,7 +573,7 @@
 }
 .header-area .header-wrapper {
     position: relative;
-    width: 100%;
+    width: 110%;
 }
 /* End Mobile Menu Area */
 /* Start Slider Area

@@ -22,10 +22,7 @@
                         </div>
                 
             </div>
-            <div class="container1">
-            <img src="assets/img/v.png" alt="Image" width="100" height="100" class="center">
-           <h2>Heading</h2>
-           </div>
+           
         
     </div>
 
