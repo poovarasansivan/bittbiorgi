@@ -55,6 +55,14 @@
       color: #d11313;
       line-height: 24px;
    }
+    .num{
+    font-family: var(--font-lato);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    color: #d11313;
+    line-height: 24px;
+ }
    .img {
       max-width: 100%;
       -webkit-transition: all 0.3s ease-out 0s;
@@ -90,7 +98,7 @@
    .capitalize {
       text-transform: capitalize;
    }
-   h1,
+   
    h2,
    h3,
    h4,
@@ -264,6 +272,9 @@
    .black-bg {
       background: #171a21;
    }
+   .latest-project-area{
+    background: #031337;
+ }
    .bg-white {
       background-color: #ffffff;
    }
@@ -277,6 +288,47 @@
    .btn:focus {
      box-shadow: 0 0 0 0;
    }
+   .submenu-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    padding: 10px;
+    z-index: 999; /* Increase the z-index value to make sure the submenu appears above images/sliders */
+}
+
+.submenu:hover .submenu-content {
+    display: block;
+}
+
+.submenu {
+    position: relative;
+}
+
+   .submenu-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    padding: 10px;
+    z-index: 1;
+}
+
+.submenu:hover .submenu-content {
+    display: block;
+}
+
+.submenu {
+    position: relative;
+}
+
+.submenu-content li {
+    margin-bottom: 5px;
+}
+
+.submenu-content a {
+    color: #333;
+    text-decoration: none;
+}
+
 
    /* start owl-carousel */
    .owl-carousel .owl-nav button {
@@ -594,9 +646,13 @@
 /* End HIre Us Area */
 /* Start Iconbox Area
 ==================================================*/
-.icon-box-img-1 {background-image: url(../img/iconbox_01.jpg);}
-.icon-box-img-2 {background-image: url(../img/iconbox_02.jpg);}
-.icon-box-img-3 {background-image: url(../img/iconbox_03.jpg);}
+.icon-box-img-1 {background-image: url(../img/3d.jpg);}
+.icon-box-img-2 {background-image: url(../img/iot.jpg);}
+.icon-box-img-3 {background-image: url(../img/robot.jpg);}
+.icon-box-img-4 {background-image: url(../img/arvr.jpg);}
+.icon-box-img-5 {background-image: url(../img/cyber.jpg);}
+.icon-box-img-6 {background-image: url(../img/mobile.jpg);}
+
 
 .single-icon-box {
     height: 280px;
@@ -624,6 +680,11 @@
     transition: .6s;
     cursor: pointer;
 }
+.feature-heading {
+    margin-top: 40px;
+font-size: 26px;
+color: #4272d7;;
+ }
 .icon-box-content:hover {
     top: 0;
 }
@@ -676,7 +737,7 @@
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
     height: 3px;
-    width: 50px;
+    width: 80px;
     content:
     "";
     background: #adadad;
@@ -705,23 +766,25 @@
 }
 
 .item-content h6 {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 700;
     margin-bottom: 10px;
 }
 .single-bemax-item {
     margin-bottom: 40px;
 }
+
 /* End Bemax Area */
 /* Start Latest Project Area
 ==================================================*/
-.project-bg-1 {background-image: url(../img/project_01.jpg);}
-.project-bg-2 {background-image: url(../img/project_02.jpg);}
-.project-bg-3 {background-image: url(../img/project_03.jpg);}
-.project-bg-4 {background-image: url(../img/project_04.jpg);}
-.project-bg-5 {background-image: url(../img/project_05.jpg);}
-.project-bg-6 {background-image: url(../img/project_06.jpg);}
-.project-bg-7 {background-image: url(../img/project_07.jpg);}
+.project-bg-1 {background-image: url(../img/l1.jpg);}
+.project-bg-2 {background-image: url(../img/l2.jpg);}
+.project-bg-3 {background-image: url(../img/l3.jpg);}
+.project-bg-4 {background-image: url(../img/l4.jpg);}
+.project-bg-5 {background-image: url(../img/l5.jpg);}
+.project-bg-6 {background-image: url(../img/l6.jpg);}
+.project-bg-7 {background-image: url(../img/l7.jpg);}
+
 
 .latest-project-area .section-title h4 {
     color: #fff;

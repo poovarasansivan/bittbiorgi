@@ -151,3 +151,29 @@ $('a').on('click', function(event){
 });
 
 })(jQuery);
+// Function to animate number counting
+function animateCount() {
+    const countItems = document.querySelectorAll('.num');
+    
+    countItems.forEach(item => {
+      const targetValue = parseInt(item.dataset.val);
+      const duration = 2000; // Animation duration in milliseconds
+      const stepTime = Math.abs(Math.floor(duration / targetValue));
+      const startValue = 0;
+      
+      let currentValue = startValue;
+      const timer = setInterval(() => {
+        item.textContent = currentValue;
+        currentValue++;
+        
+        if (currentValue > targetValue) {
+          clearInterval(timer);
+          item.textContent = targetValue;
+        }
+      }, stepTime);
+    });
+  }
+  
+  // Call the animateCount function when the page is loaded
+  window.addEventListener('load', animateCount);
+  
