@@ -87,9 +87,9 @@
             <li class="submenu">
                 <a href="#portfolio">FACILITIES</a>
                 <ul class="submenu-content">
-                    <li><a href="#">Submenu Item 1</a></li>
-                    <li><a href="#">Submenu Item 2</a></li>
-                    <li><a href="#">Submenu Item 3</a></li>
+                    <li><a href="equip.php">Equipments</a></li>
+                    <li><a href="infa.php">Infrastructure</a></li>
+                   
                 </ul>
             </li>
             <li class="submenu">
