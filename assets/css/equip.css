@@ -1,130 +1,83 @@
-.latest1-project-area{
-    background: #031337;
- }
-
-/* Start Latest Project Area
+/* Start Iconbox Area
 ==================================================*/
-.project-bg-11 {background-image: url(../img/l1.jpg);}
-.project-bg-22 {background-image: url(../img/l2.jpg);}
-.project-bg-33 {background-image: url(../img/l3.jpg);}
-.project-bg-44 {background-image: url(../img/l4.jpg);}
-
-
-.latest1-project-area .section-title1 h4 {
-    color: #fff;
+.icon-box-img-11 {background-image: url(../img/e1.png);}
+.icon-box-img-12 {background-image: url(../img/e2.png);}
+.icon-box-img-13 {background-image: url(../img/e3.png);}
+.icon-box-img-14 {background-image: url(../img/e4.png);}
+.icon-box-img-15 {background-image: url(../img/e5.png);}
+.icon-box-img-16 {background-image: url(../img/e6.png);}
+.icon-box-img-15 {background-image: url(../img/e7.png);}
+.icon-box-img-16 {background-image: url(../img/e8.png);}
+body {
+  background-color: rgb(211, 211, 211);
 }
-.carousel-area .section-title1 h4:after {
-    left: 0;
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-}
-.section-title1 h4 {
-    font-size: 20px;
-    text-transform: uppercase;
-    font-weight: 900;
-    letter-spacing: 2px;
-    position: relative;
-    padding-bottom: 10px;
-}
-.carousel-area .section-title1 h4 {
-    margin-bottom: 60px;
-}
-.section-title1 h4:after {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    -webkit-transform: translateX(-50%);
-            transform: translateX(-50%);
-    height: 3px;
-    width: 180px;
-    content:
-    "";
-    background: #adadad;
-}
-.single-project {
-    height: 225px;
-    display: table;
-    width: 100%;
+.single-icon-box1 {
+    height: 280px;
     background-size: cover;
     background-position: center;
     background-color: #cccc;
     position: relative;
     z-index: 1;
+    overflow: hidden;
 }
 
-.project-inner {
-    display: table-cell;
-    vertical-align: middle;
-    position: relative;
-    visibility: hidden;
-    opacity: 0;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-    -webkit-transition: .3s;
-    transition: .3s;
-}
-.project-inner:after {
+.icon-box-content1 {
     position: absolute;
+    left: 0;
+    top: 210px;
     width: 100%;
     height: 100%;
-    left: 0;
-    top: 0;
-    content: "";
     background: #4272d7;
-    color: #fff;
-    z-index: -1;
-    -webkit-transform: scaleY(0);
-            transform: scaleY(0);
-    opacity: 0;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-    visibility: hidden;
-    -webkit-transition: .5s;
-    transition: .5s;
-}
-.project-inner h5 {
-    font-size: 15px;
-    color: #cccc;
-    font-weight: 600;
-    letter-spacing: 1px;
-    margin: 5px;
-    -webkit-transition: .3s;
-    transition: .3s;
-}
-.project-inner h5 a:hover {
-    color: #fff;
-}
-
-.project-inner p {
-    color: #cccccc;
-    font-size: 13px;
-    margin: 0;
-    font-weight: 400;
-}
-.project-inner p a {
-    color: #ccc;
-    -webkit-transition: .3s;
-    transition: .3s;
-}
-.project-inner p a:hover {
-    color: #fff;
-}
-.project-carousel.owl-carousel .owl-nav button {
-    left: -15px;
-}
-/* .project-carousel.owl-carousel .owl-nav button.owl-next {
-    right: -15px;
-    left: auto;
-} */
-.single-project:hover .project-inner:after {
-    -webkit-transform: scaleY(1);
-            transform: scaleY(1);
-    visibility: visible;
     opacity: .9;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    color: #fff;
+    z-index: -1;
+    padding: 20px 30px 30px 30px;
+    -webkit-transition: .6s;
+    transition: .6s;
+    cursor: pointer;
+}
+.feature-heading {
+    margin-top: 40px;
+font-size: 26px;
+color: #4272d7;;
+ }
+ .icon-box-area{
+  width: 100%;
+  padding: 25px;
+  background-color: #dad9d9cc;;
+ }
+.icon-box-content1:hover {
+    top: 0;
+}
+.iconbox-content-heading1 {
+    font-size: 16px;
+    color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
 }
 
-.single-project:hover .project-inner {
-    visibility: visible;
-    opacity: 1;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+.iconbox-content-heading1 i {
+    font-size: 30px;
+    margin-right: 15px;
 }
-/* End Latest Project Area */
+
+.iconbox-content-body1   p {
+    color: #e5e5e5;
+    font-size: 14px;
+    text-align: justify;
+    margin-bottom: 25px;
+}
+.read-more-btn {
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.read-more-btn i {
+    margin-right: 5px;
+}
+/* End Iconbox Area */
