@@ -1,0 +1,33 @@
+.container22 {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .points {
+    width: 50%;
+  }
+  .sel{
+    color: #000000;
+  }
+  .back{
+    background-color: #cccc;
+  }
+.selection{
+    background-color: rgb(35, 34, 34);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    color: white;
+    font-size: 30px;
+}
+
+  .image {
+    width: 50%;
+    text-align: center;
+  }
+
+  .image img {
+    max-width: 100%;
+    max-height: 100%;
+  }

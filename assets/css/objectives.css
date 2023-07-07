@@ -106,7 +106,14 @@ td {
     justify-content: center;
     flex-wrap: wrap;
   }
-
+.sel{
+    float: right;
+    margin-top: 100px;
+    margin-bottom: -100px;
+    margin-left: 95%;
+    margin-right: 2%;
+    
+}
   .container1 img {
     margin-right: 1000px;
     border-radius: 50%;

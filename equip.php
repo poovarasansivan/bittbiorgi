@@ -17,7 +17,7 @@
     <div class="container">
     <div class="row">
             <div class="col-lg-12 text-center feature-heading">
-                <h2 class="feature-heading">LIST OF EQUIPMENTS</h2>
+                <h2 class="feature-heading">LIST OF LAB EQUIPMENTS</h2>
             </div>
         </div>
     
@@ -143,4 +143,5 @@
     </div>
 </div>
 </body>
+
 <?php include("footer.php")?>

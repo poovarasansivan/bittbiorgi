@@ -77,45 +77,54 @@
         <ul class="main-menu" id="mobile-menu">
             <li class="active"><a href="index.php">HOME</a></li>
             <li class="submenu">
-                <a href="about.php">ABOUT</a>
+                <a href="about.php">ABOUT US</a>
                 <ul class="submenu-content">
                     <li><a href="mission.php">ABOUT TBI</a></li>
-                    <li><a href="#">FACILITIES</a></li>
-                    <li><a href="#">TEAM TBI</a></li>
-                    <li><a href="#">OUT MENTORS</a></li>
+                    <li><a href="equip.php">FACILITIES</a></li>
+                    <li><a href="governors.php">BOARD OF GOVERNORS</a></li>
+                    <li><a href="teamtbi.php">TEAM TBI</a></li>
+                    <li><a href="people.php">PEOPLE TBI</a></li>
+                  
                 </ul>
             </li>
             <li class="submenu">
-                <a href="#portfolio">FACILITIES</a>
+                <a href="#portfolio">INCUBATEES</a>
                 <ul class="submenu-content">
-                    <li><a href="equip.php">Equipments</a></li>
-                    <li><a href="infa.php">Infrastructure</a></li>
-                   
+                    <li><a href="sel.php">SELECTION CRITERIA</a></li>
+                    <li><a href="entry.php">ENTRY AND EXIT POLICY</a></li>
+                    <lI><a href="role.php">ROLES OF INCUBATORS</a></li>
+                    <lI><a href="gra.php">GRADUATED INCUBATEES</a></li>
+                    <lI><a href="pre.php">PRE INCUBATEES</a></li>
+                    <lI><a href="">TBI PRODUCTS</a></li>
+                    <lI><a href="">STARTUPS</a></li>
+                </ul>
+            </li>
+            <!-- <li class="submenu">
+                <a href="#page">SPECIAL LAB</a>
+                <ul class="submenu-content">
+                    <li><a href="#">ARVR</a></li>
+                    <li><a href="#">IOT</a></li>
+                    <li><a href="#">ROBOTICS</a></li>
+                    <li><a href="#">CYBERSECURITY</a></li>
+                </ul>
+            </li> -->
+            <li class="submenu">
+                <a href="#blog">ACTIVITIES</a>
+                <ul class="submenu-content">
+                    <li><a href="#">IDEATION EVENTS</a></li>
+                    <li><a href="#">AWARNESS CAMPS</a></li>
+                    <li><a href="#">CREDIT COURSE</a></li>
+                    <li><a href="#">NEWS ARTICLES</a></li>
+                    <li><a href="#">RECENT HAPPANEINGS</a></li>
                 </ul>
             </li>
             <li class="submenu">
-                <a href="#page">PROGRAMMES</a>
-                <ul class="submenu-content">
-                    <li><a href="#">Item 1</a></li>
-                    <li><a href="#">Item 2</a></li>
-                    <li><a href="#">Item 3</a></li>
-                </ul>
-            </li>
-            <li class="submenu">
-                <a href="#blog">INCUBATION</a>
-                <ul class="submenu-content">
+                <a href="#contact-us">PARTNERS</a>
+                <!-- <ul class="submenu-content">
                     <li><a href="#">Submenu Item 1</a></li>
                     <li><a href="#">Submenu Item 2</a></li>
                     <li><a href="#">Submenu Item 3</a></li>
-                </ul>
-            </li>
-            <li class="submenu">
-                <a href="#contact-us">GALLERY</a>
-                <ul class="submenu-content">
-                    <li><a href="#">Submenu Item 1</a></li>
-                    <li><a href="#">Submenu Item 2</a></li>
-                    <li><a href="#">Submenu Item 3</a></li>
-                </ul>
+                </ul> -->
             </li>
             <li><a href="#contact-us">APPLY NOW</a></li>
             <li class="search-trigger d-none d-lg-inline-block">
