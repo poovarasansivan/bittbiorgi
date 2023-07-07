@@ -414,185 +414,187 @@
                 <td class="two">BT, TXT</td>
             </tr>
             <tr>
-											  	<td class="onee">67</td>
-											  	<td class="onee">Mr. K. Murugesan, Gobi</td>
-											  	<td class="onee">Natural dye</td>
-											  	<td class="onee">BT, TXT</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">68</td>
-											  	<td class="two">Mr. Srinivasan</td>
-											  	<td class="two">Medical Herbals (patent formulation)</td>
-											  	<td class="two">BT</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="onee">69</td>
-											  	<td class="onee">Mr. Rahul Kumar</td>
-											  	<td class="onee">Mobile app developer (Supporting start ups)</td>
-											  	<td class="onee">Software</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">70</td>
-											  	<td class="two">Ms. Kaviyadharsini &amp; team</td>
-											  	<td class="two">E- Rice cooker</td>
-											  	<td class="two">Electronics</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="onee">71</td>
-											  	<td class="onee">Mr. Satheesh (My India Exports)</td>
-											  	<td class="onee">Nannari Carbonated Drink</td>
-											  	<td class="onee">Food Tech</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">72</td>
-											  	<td class="two">Mr. M. Ashok Kumar (Alumni)</td>
-											  	<td class="two">Banana Export (Red Banana)</td>
-											  	<td class="two">Marketing</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="onee">73</td>
-											  	<td class="onee">Mr. Naveen Shankar &amp; Arjun S. V</td>
-											  	<td class="onee">Chocolate-3D printing</td>
-											  	<td class="onee">Mechanical</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">74</td>
-											  	<td class="two">Mr. M. Senthil Kumar</td>
-											  	<td class="two">Virgin coconut oil </td>
-											  	<td class="two">FMCG</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="onee">75</td>
-											  	<td class="onee">Ms. R. A. Rajalakshmi</td>
-											  	<td class="onee">Flavored milk processing</td>
-											  	<td class="onee">Food Tech</td>
-											   
-											</tr>
-        </table><tr>
-											  	<td class="two">76</td>
-											  	<td class="two">Mr. R. Manimuthu </td>
-											  	<td class="two">Marketing </td>
-											  	<td class="two">FMCG</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="onee">77</td>
-											  	<td class="onee">Mr. Sasi raja </td>
-											  	<td class="onee">FMCG – Marketing </td>
-											  	<td class="onee">Food Tech</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">78</td>
-											  	<td class="two">Mr. Santhoush, III CSE, BIT</td>
-											  	<td class="two">Biogas with the help of Eichornia </td>
-											  	<td class="two">Bio Tech. </td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="onee">79</td>
-											  	<td class="onee">Mr. S. Sathish  </td>
-											  	<td class="onee">Six axis - industry  automation robotic arm </td>
-											  	<td class="onee">Electronics </td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">80</td>
-											  	<td class="two">Mr. G. Rangarajan (EEE Alumni)</td>
-											  	<td class="two">Prototype for IT development</td>
-											  	<td class="two">IT/EEE</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="onee">81</td>
-											  	<td class="onee">Nagadevi, Swathika &amp; Akash</td>
-											  	<td class="onee">Traditional food based items</td>
-											  	<td class="onee">Food Tech- 2nd yr</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">82</td>
-											  	<td class="two">Naveen Krishna</td>
-											  	<td class="two">Mindwiz techno solutions</td>
-											  	<td class="two">Business consultant (Resource person)</td>
-											   
-											</tr>
-    </div><tr>
-											  	<td class="onee">83</td>
-											  	<td class="onee">Mr. D. Dinesh (Staff- BIT)</td>
-											  	<td class="onee">IPR + Polymer based non absorbing material to prevent blood loss</td>
-											  	<td class="onee">Mechanical</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">84</td>
-											  	<td class="two">Mr. Ganesh Kumar &amp; Gowtham Ganesh</td>
-											  	<td class="two">IPR- </td>
-											  	<td class="two">Mechanical - 3rd yr</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="onee">85</td>
-											  	<td class="onee">Ms. Deepika &amp; Raninithyapriya</td>
-											  	<td class="onee">Food tech work</td>
-											  	<td class="onee">Food Tech- 2nd yr</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">86</td>
-											  	<td class="two">Mr. S. Bhuvanesh, S. Muthukumar &amp; V. Dinakaran</td>
-											  	<td class="two">Tender coconut Vending machine</td>
-											  	<td class="two">EEE- 3rd yr</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="onee">87</td>
-											  	<td class="onee">Mr. P. gowtham &amp; Jagadeahwaran</td>
-											  	<td class="onee">Plastic bag to wire form</td>
-											  	<td class="onee">Mechanical</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">88</td>
-											  	<td class="two">Ms. Divya Jennifer &amp; Mr. S. Gokul (Shalinil mam students)</td>
-											  	<td class="two">Pest control using microwaves</td>
-											  	<td class="two">ECE-3rd yr</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="onee">89</td>
-											  	<td class="onee">Mr. Tharun Selvan</td>
-											  	<td class="onee">MSME regarding</td>
-											  	<td class="onee">Mechatronics- 2nd yr</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">90</td>
-											  	<td class="two">Ms. P. Tamilarasi, Erode</td>
-											  	<td class="two">Food related work</td>
-											  	<td class="two"></td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="onee">91</td>
-											  	<td class="onee">Mr. K. Pranesh Kumar</td>
-											  	<td class="onee">Interested in collaboration works</td>
-											  	<td class="onee">Biotech-2nd yr</td>
-											   
-											</tr>
-                                            <tr>
-											  	<td class="two">92</td>
-											  	<td class="two">Ms. Tamilarasi, Gobi</td>
-											  	<td class="two">Onion thokku, homemade products</td>
-											  	<td class="two"></td>
-											   
-											</tr>
+                <td class="onee">67</td>
+                <td class="onee">Mr. K. Murugesan, Gobi</td>
+                <td class="onee">Natural dye</td>
+                <td class="onee">BT, TXT</td>
+
+            </tr>
+            <tr>
+                <td class="two">68</td>
+                <td class="two">Mr. Srinivasan</td>
+                <td class="two">Medical Herbals (patent formulation)</td>
+                <td class="two">BT</td>
+
+            </tr>
+            <tr>
+                <td class="onee">69</td>
+                <td class="onee">Mr. Rahul Kumar</td>
+                <td class="onee">Mobile app developer (Supporting start ups)</td>
+                <td class="onee">Software</td>
+
+            </tr>
+            <tr>
+                <td class="two">70</td>
+                <td class="two">Ms. Kaviyadharsini &amp; team</td>
+                <td class="two">E- Rice cooker</td>
+                <td class="two">Electronics</td>
+
+            </tr>
+            <tr>
+                <td class="onee">71</td>
+                <td class="onee">Mr. Satheesh (My India Exports)</td>
+                <td class="onee">Nannari Carbonated Drink</td>
+                <td class="onee">Food Tech</td>
+
+            </tr>
+            <tr>
+                <td class="two">72</td>
+                <td class="two">Mr. M. Ashok Kumar (Alumni)</td>
+                <td class="two">Banana Export (Red Banana)</td>
+                <td class="two">Marketing</td>
+
+            </tr>
+            <tr>
+                <td class="onee">73</td>
+                <td class="onee">Mr. Naveen Shankar &amp; Arjun S. V</td>
+                <td class="onee">Chocolate-3D printing</td>
+                <td class="onee">Mechanical</td>
+
+            </tr>
+            <tr>
+                <td class="two">74</td>
+                <td class="two">Mr. M. Senthil Kumar</td>
+                <td class="two">Virgin coconut oil </td>
+                <td class="two">FMCG</td>
+
+            </tr>
+            <tr>
+                <td class="onee">75</td>
+                <td class="onee">Ms. R. A. Rajalakshmi</td>
+                <td class="onee">Flavored milk processing</td>
+                <td class="onee">Food Tech</td>
+
+            </tr>
+            <tr>
+                <td class="two">76</td>
+                <td class="two">Mr. R. Manimuthu </td>
+                <td class="two">Marketing </td>
+                <td class="two">FMCG</td>
+
+            </tr>
+            <tr>
+                <td class="onee">77</td>
+                <td class="onee">Mr. Sasi raja </td>
+                <td class="onee">FMCG – Marketing </td>
+                <td class="onee">Food Tech</td>
+
+            </tr>
+            <tr>
+                <td class="two">78</td>
+                <td class="two">Mr. Santhoush, III CSE, BIT</td>
+                <td class="two">Biogas with the help of Eichornia </td>
+                <td class="two">Bio Tech. </td>
+
+            </tr>
+            <tr>
+                <td class="onee">79</td>
+                <td class="onee">Mr. S. Sathish </td>
+                <td class="onee">Six axis - industry automation robotic arm </td>
+                <td class="onee">Electronics </td>
+
+            </tr>
+            <tr>
+                <td class="two">80</td>
+                <td class="two">Mr. G. Rangarajan (EEE Alumni)</td>
+                <td class="two">Prototype for IT development</td>
+                <td class="two">IT/EEE</td>
+
+            </tr>
+            <tr>
+                <td class="onee">81</td>
+                <td class="onee">Nagadevi, Swathika &amp; Akash</td>
+                <td class="onee">Traditional food based items</td>
+                <td class="onee">Food Tech- 2nd yr</td>
+
+            </tr>
+            <tr>
+                <td class="two">82</td>
+                <td class="two">Naveen Krishna</td>
+                <td class="two">Mindwiz techno solutions</td>
+                <td class="two">Business consultant (Resource person)</td>
+
+            </tr>
+            <tr>
+                <td class="onee">83</td>
+                <td class="onee">Mr. D. Dinesh (Staff- BIT)</td>
+                <td class="onee">IPR + Polymer based non absorbing material to prevent blood loss</td>
+                <td class="onee">Mechanical</td>
+
+            </tr>
+            <tr>
+                <td class="two">84</td>
+                <td class="two">Mr. Ganesh Kumar &amp; Gowtham Ganesh</td>
+                <td class="two">IPR- </td>
+                <td class="two">Mechanical - 3rd yr</td>
+
+            </tr>
+            <tr>
+                <td class="onee">85</td>
+                <td class="onee">Ms. Deepika &amp; Raninithyapriya</td>
+                <td class="onee">Food tech work</td>
+                <td class="onee">Food Tech- 2nd yr</td>
+
+            </tr>
+            <tr>
+                <td class="two">86</td>
+                <td class="two">Mr. S. Bhuvanesh, S. Muthukumar &amp; V. Dinakaran</td>
+                <td class="two">Tender coconut Vending machine</td>
+                <td class="two">EEE- 3rd yr</td>
+
+            </tr>
+            <tr>
+                <td class="onee">87</td>
+                <td class="onee">Mr. P. gowtham &amp; Jagadeahwaran</td>
+                <td class="onee">Plastic bag to wire form</td>
+                <td class="onee">Mechanical</td>
+
+            </tr>
+            <tr>
+                <td class="two">88</td>
+                <td class="two">Ms. Divya Jennifer &amp; Mr. S. Gokul (Shalinil mam students)</td>
+                <td class="two">Pest control using microwaves</td>
+                <td class="two">ECE-3rd yr</td>
+
+            </tr>
+            <tr>
+                <td class="onee">89</td>
+                <td class="onee">Mr. Tharun Selvan</td>
+                <td class="onee">MSME regarding</td>
+                <td class="onee">Mechatronics- 2nd yr</td>
+
+            </tr>
+            <tr>
+                <td class="two">90</td>
+                <td class="two">Ms. P. Tamilarasi, Erode</td>
+                <td class="two">Food related work</td>
+                <td class="two"></td>
+
+            </tr>
+            <tr>
+                <td class="onee">91</td>
+                <td class="onee">Mr. K. Pranesh Kumar</td>
+                <td class="onee">Interested in collaboration works</td>
+                <td class="onee">Biotech-2nd yr</td>
+
+            </tr>
+            <tr>
+                <td class="two">92</td>
+                <td class="two">Ms. Tamilarasi, Gobi</td>
+                <td class="two">Onion thokku, homemade products</td>
+                <td class="two"></td>
+
+            </tr>
+        </table>
+    </div>
     <?php include("footer.php") ?>
