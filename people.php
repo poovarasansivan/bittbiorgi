@@ -3,13 +3,14 @@
 <html>
 <head>
     <title>PEOPLE TBI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="assets/css/people.css">
 </head>
 <body>
     <h2 class="tbi-feature">PEOPLES OF TBI</h2>
    
     
-    <div class="container2">
+    <div class="container2" style="overflow-x:auto;">
   <table id="myTable">
     <tr>
       <th class="one">Photo</th>

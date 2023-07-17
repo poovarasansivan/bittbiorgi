@@ -8,7 +8,8 @@
 
 <body class="back">
     <h2 class="feat">PRE-INCUBATION</h2>
-    <div class="container">
+    <div class="container" style="overflow-x:auto;">
+
         <table id="myTable">
             <h2 class="mem"> List of Pre-Incubation</h2>
             <tr>

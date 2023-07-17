@@ -117,4 +117,16 @@ table {
   }
   
 
-
+  @media screen and (max-width: 768px) {
+    .container1 {
+      flex-direction: column;
+    }
+    .row {
+      display: flex;
+    }
+    .column {
+      width: 100%;
+      padding-top: 25px;
+      padding-bottom: 25px;
+    }
+  }

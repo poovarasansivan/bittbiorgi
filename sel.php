@@ -17,13 +17,18 @@
     
     .image-container {
         display: flex;
-        align-items: center;
+        align-items: baseline;
+        max-inline-size: 100%;
+  block-size: auto;
     }
     
     .image-container img {
         max-width: 100%;
         height: auto;
         margin-left: 15px;
+    }
+    .col-lg-66 {
+        -ms-flex: 0 0 50%;
     }
 </style>
 
@@ -38,11 +43,11 @@
             </div>
         </div>
         <div style="float: right;margin-top: 60px;margin-bottom: -100%;margin-right: 10%;margin-left: 95%; ">
-    <div><img src="assets/img/sel2.jpeg" class="sel"/></div>
+    <!-- <div><img src="assets/img/sel2.jpeg" class="sel"/></div> -->
 </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-66">
                     <div class="content-body">
                         <div class="image-container">
                             <p class="checklist">Receipt of Applications through Website and Media advertisement</p>

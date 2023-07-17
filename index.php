@@ -3,8 +3,8 @@
 <head>
    <!-- <meta charset="utf-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="description" content="Be-one is a clean HTML5/CSS3 template suitable for Business, Corporate, Taxes, Broker, Ad...">
-   <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+   <meta name="description" content="Be-one is a clean HTML5/CSS3 template suitable for Business, Corporate, Taxes, Broker, Ad..."> -->
+   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 <!-- Title -->
@@ -20,7 +20,7 @@
 <!-- MagnificPopup.css -->
    <link rel="stylesheet" href="assets/css/magnific-popup.css">
    <!-- SlickNav.css -->
-   <link rel="stylesheet" href="assets/css/slicknav.min.css">
+   <!-- <link rel="stylesheet" href="assets/css/slicknav.min.css"> -->
    <!-- Owl.carousel.css -->
    <link rel="stylesheet" href="assets/css/owl.carousel-2.3.4.min.css">
    <!-- Fontawesome.css -->
@@ -81,12 +81,12 @@
                     </div>
                     <div class="single-slider">
                         <div class="slider-inner">
-                            <img src="assets/img/4.jpg" alt="Slider Image 3">
+                            <img src="assets/img/4.jpg" alt="Slider Image 4">
                         </div>
                     </div>
                     <div class="single-slider">
                         <div class="slider-inner">
-                            <img src="assets/img/5.jpg" alt="Slider Image 3">
+                            <img src="assets/img/5.jpg" alt="Slider Image 5">
                         </div>
                     </div>
                 </div>
@@ -385,14 +385,14 @@
                         <h4>Linkedin Posts</h4>
                     </div>
                     <div class="blog-carousel owl-carousel">
-                        <div class="single-blog-item">
+                    <div class="single-blog-item">
                             <div class="single-blog-img">
                                 <img src="assets/img/la1.jpeg" alt="">
                                 <span>April 21, 2023</span>
                             </div>
                             <div class="blog-content">
-                                <h5 class="post-heading"><a href="#">EEE HACKATHON</a> </h5>
-                                <p class="post-content-text">BIT Special Laboratories hosted a one-day hardware hackathon event On April 21, 2023. The hackathon was divided into four domains, namely Mech Hack, BioHack, Electronic Hack, and Fashion Hack, and the same were judged by external jury panels from reputed industries.</p>
+                                <h5 class="post-heading"><a href="#"> HACKATHON</a> </h5>
+                                <p class="post-content-text">BIT Special Laboratories hosted a one-day hardware hackathon event On April 21, 2023. The hackathon was divided into four domains, namely Mech Hack, BioHack, Electronic Hack, and Fashion Hack, and the same were judged by external jury panels from reputed industries. </p>
                                 <div class="blog-btn">
                                     <div class="blog-tags">
                                         <i class="fas fa-tags"></i>
