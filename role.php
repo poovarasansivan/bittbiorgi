@@ -36,6 +36,18 @@
             padding-right: 0px;
             padding-bottom: 0px;
         }
+        .rolejp{
+            width: 100%;
+  height: 300px;
+  object-fit: cover;
+  object-position: bottom;
+}
+@media only screen and (max-width: 480px) {
+  .rolejp {
+    height: auto;
+    width: auto;
+  }
+}
     </style>
    <link rel="stylesheet" href="assets/css/role.css">
 
@@ -45,7 +57,7 @@
     <body class="role">
         <div class="outer-container">
             <div class="inner-container">
-                <img src="assets/img/r1.png" alt="alternative_text">
+                <img src="assets/img/r1.png" alt="rolejp">
 
                 <h1 class="heading1">Idea Scouting</h1>
                 <p class="rr">so that a number of people in the region, campus, and whoever approaches TBI with or for ideas get opportunity for working on technical ideas nurtured by them</p>
@@ -81,7 +93,7 @@
                 <p class="rr">TBIs have to continuously and actively partake in knowledge creation, value creation & wealth creation leading to more sustained business thereby more employment, contribution to GDP and nation building</p>
            
             </div>
-        </div>
+            </div>
     </body>
 </html>
 <?php include("footer.php") ?>

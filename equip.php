@@ -23,12 +23,11 @@
     
 
         <div class="row">
+           
             <div class="col-lg-4">
-                <div class="single-icon-box1 icon-box-img-11">
+                <div class="single-icon-box icon-box-img-11">
                     <div class="icon-box-content1">
-                        <h6 class="iconbox-content-heading1">
-                            <i class="fas fa-briefcase"></i> High Performance Thin Layer Chromatography (HPTLC)
-                        </h6>
+                        <h6 class="iconbox-content-heading1"><i class="fas fa-briefcase"></i> High Performance Thin Layer Chromatography (HPTLC)</h6>
                         <div class="iconbox-content-body1">
                             <p>Mauris scelerisque ut ipsum id vulputate. Nulla laoreet, ligula vel congue ultricies, nibh ipsum egestas nunc, id porta nibh nunc non felis. Vestibulum nibh urna, lobortis ut euismod sed, dignissim non neque</p>
                             <a class="btn btn-inline read-more-btn" href="#"><i class="fas fa-plus-square"></i> Read More</a>
@@ -40,7 +39,7 @@
             <div class="col-lg-4">
                 <div class="single-icon-box icon-box-img-12">
                     <div class="icon-box-content1">
-                        <h6 class="iconbox-content-heading1"><i class="fas fa-briefcase"></i> Gas Chromatography (GC)</h6>
+                        <h6 class="iconbox-content-heading1"><i class="fas fa-briefcase"></i>Gas Chromatography (GC)</h6>
                         <div class="iconbox-content-body1">
                             <p>Mauris scelerisque ut ipsum id vulputate. Nulla laoreet, ligula vel congue ultricies, nibh ipsum egestas nunc, id porta nibh nunc non felis. Vestibulum nibh urna, lobortis ut euismod sed, dignissim non neque</p>
                             <a class="btn btn-inline read-more-btn" href="#"><i class="fas fa-plus-square"></i> Read More</a>

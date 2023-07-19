@@ -1,9 +1,15 @@
 .ent-feature{
-    background-color: rgb(31, 30, 30);
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-    color: white;
-    font-size: 20px;
+  background-color: rgb(31, 30, 30);
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  color: white;
+  font-size: 20px;
+}
+@media only screen and (max-width: 480px) {
+  .inner-container {
+    height: auto;
+    width: auto;
   }
+}

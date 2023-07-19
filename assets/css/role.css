@@ -8,6 +8,10 @@
     background-color: #f2f0f0;
     text-align: start; 
 }
+.image{
+    max-width: 100%;
+    height: auto;
+}
 .inner-container {
     background-color: rgb(249, 249, 249);
     padding: 30px;
