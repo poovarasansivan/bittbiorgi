@@ -8,7 +8,7 @@
 <style>
   .tbi-feature{
   background-color: rgb(35, 34, 34);
-  padding-top: 50px;
+  padding-top: 70px;
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;

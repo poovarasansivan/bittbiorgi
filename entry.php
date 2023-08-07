@@ -1,14 +1,12 @@
-<?php include("header.php") ?>
-<!-- role and entry using same code and css style -->
+<?php include("header.php")?>
+<!DOCTYPE html>
 <html>
-
 <head>
-    <title>Entry And Exit Policy</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="assets/css/bootstrap-4.3.1.min.css">
-  
-    <style>
-        .heading11 {
+  <title>INCUBATORS ENTRY AND EXIT POLICY</title>
+  <link rel="stylesheet" href="assets/css/idea.css">
+  <link rel="stylesheet" href="assets/css/role.css">
+  <style>
+    .heading11 {
             padding-top: 10px;
             padding-bottom: 0px;
             padding-left: 0px;
@@ -117,20 +115,12 @@
                 margin-left: 10px;
             }
         }
-    </style>
-    <link rel="stylesheet" href="assets/css/role.css">
-
+  </style>
 </head>
-
 <body>
-    <h2 class="ent-feature">INCUBATORS ENTRY AND EXIT POLICY</h2>
-
-    <body class="role">
-        <div class="outer-container">
-            <div class="inner-container">
-
-
-                <h1 class="heading11">Introduction</h1>
+  <h2 class="idea">INCUBATORS ENTRY AND EXIT POLICY</h2>
+  <div class="container111">
+  <h1 class="heading11">Introduction</h1>
                 <p class="rr1">Bannari Amman Institute of Technology (BIT) is committed to create the Centers of
                     Excellence in Engineering, Technology and Management education having relevance to industrial and
                     societal needs. Various policies are framed considering systems, processes and procedures followed
@@ -226,9 +216,8 @@
                     revisions that arise subsequently shall be reviewed as said above and forwarded to AGM through
                     Member Secretary of the Council for amendments of the policy. On approval of the amendments, revised
                     policy shall be published and circulated to all members appropriately.</p>
-            </div>
-        </div>
-    </body>
-
+  </div>
+</body>
 </html>
-<?php include("footer.php") ?>
+
+<?php include("footer.php")?>

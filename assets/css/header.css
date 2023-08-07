@@ -10,8 +10,11 @@
 section{
   padding: 20px 100px;
 }
-
-.section-home{
+.navigation{
+  border-top: 25px solid #4272d7;
+  padding: 30px 0;
+}
+.section{
   position: relative;
   min-height: 100vh;
   background: url(bg.jpg)no-repeat;
@@ -67,13 +70,13 @@ header{
   justify-content: space-between;
   align-items: center;
   background: #ffffff;
-  box-shadow: 0 5px 25px rgb(0 0 0 / 20%);
+  box-shadow: 0 5px 25px rgba(239, 239, 239, 0.2);
   padding: 0 100px;
   transition: 0.6s;
 }
 
 header .logo{
-  color: #fff;
+  color: #050505;
   font-size: 1.8em;
   font-weight: 700;
   text-transform: uppercase;
@@ -101,7 +104,7 @@ header .navigation .menu{
 }
 
 .menu-item > a{
-  color: black;
+  color: #060606;
   font-size: 1em;
   text-decoration: none;
   margin: 20px;
@@ -120,7 +123,7 @@ header .navigation .menu{
   line-height: 40px;
   list-style: none;
   border-radius: 0 0 8px 8px;
-  box-shadow: 0 5px 25px rgb(0 0 0 / 20%);
+  box-shadow: 0 5px 25px rgba(136, 136, 136, 0.2);
   pointer-events: none;
   transform: translateY(20px);
   opacity: 0;
@@ -146,14 +149,14 @@ header.sticky .menu-item .sub-menu{
 }
 
 .menu-item .sub-menu .sub-item a{
-  color:rgb(0, 0, 0);
+  color: #000000;
   font-size: 1em;
   text-decoration: none;
   padding: 15px 30px;
 }
 
 .menu-item .sub-menu .sub-item:hover{
-  background: #d5d6d6;
+  background: #4080EF;
 }
 
 .menu-item .sub-menu .sub-item:last-child:hover{
@@ -162,7 +165,7 @@ header.sticky .menu-item .sub-menu{
 
 .more .more-menu{
   position: absolute;
-  background:white;
+  background: #fbfbfb;
   list-style: none;
   top: 0;
   left: 100%;
@@ -200,7 +203,7 @@ header.sticky .menu-item .sub-menu{
   header .navigation .menu{
     position: fixed;
     display: block;
-    background: white;
+    background: #fafafa;
     min-width: 350px;
     height: 100vh;
     top: 0;
@@ -262,7 +265,7 @@ header.sticky .menu-item .sub-menu{
     position: relative;
     left: 0;
     transform: translateY(0);
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(158, 78, 78, 0.1);
     border-radius: 5px;
     display: none;
   }
@@ -281,7 +284,7 @@ header.sticky .menu-item .sub-menu{
 
   .close-btn{
     position: absolute;
-    background: url(close.png)no-repeat;
+    background: url(../img/close.png)no-repeat;
     width: 40px;
     height: 40px;
     background-size: 25px;
@@ -293,7 +296,7 @@ header.sticky .menu-item .sub-menu{
   }
 
   .menu-btn{
-    background: url(menu.png)no-repeat;
+    background: url(../img/menu.png)no-repeat;
     width: 40px;
     height: 40px;
     background-size: 30px;

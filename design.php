@@ -4,7 +4,7 @@
 <html>
 <head>
   <title>DESIGN COLLOQUIUM</title>
-  <link rel="stylesheet" href="assets/css/idea.css">
+  <link rel="stylesheet" href="assets/css/design.css">
   <style>
     
   </style>
@@ -12,7 +12,7 @@
 <body>
   <h2 class="idea">DESIGN COLLOQUIUM</h2>
   <div class="container111">
-    <h1 class="ideah">Shortlisted design based projects with scope for commercialization will be mentored through 6 quality hours per project to impart</h1>
+    <h1 class="ideah" class="checklist">Shortlisted design based projects with scope for commercialization will be mentored through 6 quality hours per project to impart</h1>
     <p class="ideap">(1) Value proposition</p>
     <p class="ideap">(2) Fine-tuned prototype</p>
     <p class="ideap">(3) Beyond prototype trends</p>
